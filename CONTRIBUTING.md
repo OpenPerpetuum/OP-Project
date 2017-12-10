@@ -4,7 +4,7 @@
 
 Prototypical git branch structure  
 **master** - The main production line, release from here, most recent commits here will be what should be on live-server.    
-**Development** - This will be the main development branch off which all other working branches will start. 
+**development** - This will be the main development branch off which all other working branches will start. 
 All other branches must catch up to, and resolve conflicts with this branch before having a valid pull request.  
 **yourname-dev** - Your personal development branch on this remote.  
 **somefeature** - Some collaborative/focused effort around feature 'somefeature'  
